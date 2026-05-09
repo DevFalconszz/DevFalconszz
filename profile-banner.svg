@@ -1,0 +1,24 @@
+<svg width="800" height="200" viewBox="0 0 800 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="200" rx="10" fill="url(#paint0_linear)"/>
+  
+  <!-- Background Decorations -->
+  <circle cx="750" cy="150" r="100" fill="#00D4FF" fill-opacity="0.05"/>
+  <circle cx="50" cy="50" r="80" fill="#00D4FF" fill-opacity="0.05"/>
+  
+  <!-- Content -->
+  <text fill="white" xml:space="preserve" style="white-space: pre" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="bold" letter-spacing="0.05em"><tspan x="60" y="90">PATRICK VAGETTI</tspan></text>
+  <text fill="#00D4FF" xml:space="preserve" style="white-space: pre" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="500" letter-spacing="0.1em"><tspan x="60" y="125">SOFTWARE DEVELOPER | AI ENTHUSIAST</tspan></text>
+  <text fill="white" fill-opacity="0.6" xml:space="preserve" style="white-space: pre" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="400"><tspan x="60" y="155">Creator of Áquila IA Project</tspan></text>
+  
+  <!-- Abstract Eagle/AI Icon -->
+  <path d="M680 50C660 70 640 100 640 130C640 140 650 150 660 150C680 150 720 100 740 70C720 60 700 50 680 50Z" fill="#00D4FF"/>
+  <path d="M660 100L690 130L720 100" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="680" cy="80" r="5" fill="white" fill-opacity="0.8"/>
+  
+  <defs>
+    <linearGradient id="paint0_linear" x1="0" y1="0" x2="800" y2="200" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#1E293B"/>
+    </linearGradient>
+  </defs>
+</svg>

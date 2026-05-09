@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Patrick | @DevFalconszz
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DevFalconszz/aquila-tcc/main/linux/docs/banner_soft.png" alt="Banner" width="100%" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);">
+  <img src="profile-banner.svg" alt="Patrick Vagetti Banner" width="100%">
 </p>
 
 <p align="center">
