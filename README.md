@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Patrick | @DevFalconszz
+# <img src="https://github.com/DevFalconszz.png" width="45px" style="border-radius: 50%; vertical-align: middle;"> Olá, eu sou o Patrick | @DevFalconszz <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" style="vertical-align: middle;">
 
 <p align="center">
   <img src="profile-banner.svg" alt="Patrick Vagetti Banner" width="100%">
