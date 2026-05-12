@@ -1,4 +1,4 @@
-# <img src="https://github.com/DevFalconszz.png" width="45px" style="border-radius: 50%; vertical-align: middle;"> Olá, eu sou o Patrick | @DevFalconszz <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" style="vertical-align: middle;">
+# <svg width="35" height="35" viewBox="0 0 100 100" style="vertical-align: middle; margin-right: 10px;"><defs><linearGradient id="logo_grad" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#38bdf8"/><stop offset="100%" stop-color="#818cf8"/></linearGradient></defs><circle cx="50" cy="50" r="48" fill="url(#logo_grad)"/><path d="M50 20L80 40V70L50 90L20 70V40L50 20Z" fill="white" fill-opacity="0.2"/><path d="M50 30L70 45V65L50 80L30 65V45L50 30Z" fill="white"/><circle cx="50" cy="55" r="8" fill="url(#logo_grad)"/></svg> Olá, eu sou o Patrick | @DevFalconszz <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" style="vertical-align: middle;">
 
 <p align="center">
   <img src="profile-banner.svg" alt="Patrick Vagetti Banner" width="100%">
