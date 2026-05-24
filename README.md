@@ -30,7 +30,7 @@ Minha principal frente de atuação em inteligência de mercado. Uma plataforma 
 #### [🤖 Áquila IA (Projeto Pessoal)](https://github.com/DevFalconszz/aquila-tcc)
 Um assistente autônomo de código aberto que integra **visão computacional** e **voz humana (Piper)** para interagir com o ambiente desktop de forma inteligente.
 
-#### [🧪 Mundo dos Isômeros](https://github.com/DevFalconsz/Mundo-dos-Isomeros) *(Legacy)*
+#### [🧪 Mundo dos Isômeros](https://github.com/DevFalconszz/Mundo-dos-Isomeros)
 Um projeto premiado de gamificação educacional que traduz conceitos complexos de Química Orgânica através de mecânicas interativas.
 
 ---
